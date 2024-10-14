@@ -21,6 +21,8 @@ Make sure you have the following installed:
 - **Node.js**: (https://nodejs.org/) - For running the development server.
 - **npm**: Installed with Node.js.
 
+### Preview
+![image](https://github.com/user-attachments/assets/82d8ccfb-38ee-4e4b-81a1-5a8304032f1d)
 
 
 ### Project Structure
