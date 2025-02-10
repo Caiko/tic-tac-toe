@@ -12,7 +12,6 @@ This is a fully functional Tic Tac Toe game built using **React** with a stylish
   
 ### Technologies Used:
 - **React.js**: JavaScript library for building the game’s user interface.
-- **Tailwind CSS**: Utility-first CSS framework used for styling.
 - **JavaScript ES6+**: Modern JavaScript features like arrow functions, destructuring, and more.
   
 
@@ -53,8 +52,3 @@ Each player takes turns clicking on an empty square to place their symbol ("X" o
 The game checks for a winner after every move by comparing the current state of the game board against all possible winning combinations (rows, columns, diagonals).
 The game also checks for a draw when all squares are filled without a winner.
 
-### Contributing
-If you would like to contribute to the project, feel free to open a pull request or issue. All contributions and suggestions are welcome!
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
